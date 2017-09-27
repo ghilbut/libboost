@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+
+
+# NOTE(ghilbut): binary path which compiled
+boost_1_*/
+tmp/
